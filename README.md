@@ -1,2 +1,6 @@
 # Debug Tools
- Debug tools for Fivem development
+
+Tools:
+	- Raycast that prints entity information.
+	- Displays the player's data on the screen.
+
